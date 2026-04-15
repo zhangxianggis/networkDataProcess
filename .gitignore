@@ -27,6 +27,8 @@ env/
 # Excel temporary files
 ~$*.xlsx
 
+# Input files (raw data)
+input/*.xlsx
 
 # Result files (generated output)
 result/*.xlsx
